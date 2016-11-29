@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "in English"; ObjectID = "1ll-je-aCE"; */
+"1ll-je-aCE.text" = "en Inglés";
+
+/* Class = "UITableViewSection"; headerTitle = "Call"; ObjectID = "3Rh-jd-Y0i"; */
+"3Rh-jd-Y0i.headerTitle" = "Llamado";
+
+/* Class = "UILabel"; text = "Hold:"; ObjectID = "3oe-t4-x7g"; */
+"3oe-t4-x7g.text" = "Retención:";
+
+/* Class = "UILabel"; text = "Rounds:"; ObjectID = "58c-fZ-7QG"; */
+"58c-fZ-7QG.text" = "Rondas:";
+
+/* Class = "UILabel"; text = "Wednesday, October 21, 2014"; ObjectID = "5e2-aJ-oRo"; */
+"5e2-aJ-oRo.text" = "Wednesday, October 21, 2014";
+
+/* Class = "UITableViewController"; title = "History"; ObjectID = "5kE-uw-o5S"; */
+"5kE-uw-o5S.title" = "History";
+
+/* Class = "UITableViewSection"; headerTitle = "Kapalbhati"; ObjectID = "6ee-7o-Qhk"; */
+"6ee-7o-Qhk.headerTitle" = "Kapalbhati";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "7YG-mV-Akx"; */
+"7YG-mV-Akx.title" = "Settings";
+
+/* Class = "UILabel"; text = "Seconds:"; ObjectID = "7km-Rq-Y6F"; */
+"7km-Rq-Y6F.text" = "Segundos:";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "8QL-wF-2KY"; */
+"8QL-wF-2KY.normalTitle" = "Go";
+
+/* Class = "UILabel"; text = "Times:"; ObjectID = "9zd-xl-eaD"; */
+"9zd-xl-eaD.text" = "Veses:";
+
+/* Class = "UILabel"; text = "Export to Calender"; ObjectID = "As6-DD-sGF"; */
+"As6-DD-sGF.text" = "Exporta a calendario";
+
+/* Class = "UILabel"; text = "Rounds:"; ObjectID = "Bdh-f6-jzA"; */
+"Bdh-f6-jzA.text" = "Rondas:";
+
+/* Class = "UITextField"; placeholder = "Memo"; ObjectID = "C7y-sR-db5"; */
+"C7y-sR-db5.placeholder" = "Memo";
+
+/* Class = "UIButton"; normalTitle = "Ex"; ObjectID = "Elb-cD-3p2"; */
+"Elb-cD-3p2.normalTitle" = "Ex";
+
+/* Class = "UILabel"; text = "Export to Health"; ObjectID = "FOe-ZA-IgC"; */
+"FOe-ZA-IgC.text" = "Exporta a salud";
+
+/* Class = "UILabel"; text = "Rounds:"; ObjectID = "Hm1-RN-zBM"; */
+"Hm1-RN-zBM.text" = "Rondas:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JL8-Ui-uiM"; */
+"JL8-Ui-uiM.text" = "Label";
+
+/* Class = "UILabel"; text = "Seconds:"; ObjectID = "QAU-q1-t22"; */
+"QAU-q1-t22.text" = "Segundos:";
+
+/* Class = "UIButton"; normalTitle = "Chandra Bhedana"; ObjectID = "Rsn-Rv-lkw"; */
+"Rsn-Rv-lkw.normalTitle" = "Chandra Bhedana";
+
+/* Class = "UILabel"; text = "✿"; ObjectID = "UAY-xr-Vsg"; */
+"UAY-xr-Vsg.text" = "✿";
+
+/* Class = "UITableViewSection"; headerTitle = "Anulomvilom"; ObjectID = "VU9-eZ-pwp"; */
+"VU9-eZ-pwp.headerTitle" = "Anulomvilom";
+
+/* Class = "UIButton"; normalTitle = "Fa"; ObjectID = "VXi-W8-9Qv"; */
+"VXi-W8-9Qv.normalTitle" = "Fa";
+
+/* Class = "UITableViewSection"; headerTitle = "Surya Bhedana"; ObjectID = "WTc-XG-jcp"; */
+"WTc-XG-jcp.headerTitle" = "Surya Bhedana";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Ztt-Ko-Seo"; */
+"Ztt-Ko-Seo.title" = "History";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "Zvd-cZ-4bJ"; */
+"Zvd-cZ-4bJ.text" = "Velocidad";
+
+/* Class = "UILabel"; text = "How was practice?"; ObjectID = "cL3-zX-kiB"; */
+"cL3-zX-kiB.text" = "How was practice?";
+
+/* Class = "UIButton"; normalTitle = "Ba"; ObjectID = "dy0-c5-YS7"; */
+"dy0-c5-YS7.normalTitle" = "Ba";
+
+/* Class = "UILabel"; text = "12・10 @ 09:45"; ObjectID = "e03-cq-0Ai"; */
+"e03-cq-0Ai.text" = "12・10 @ 09:45";
+
+/* Class = "UILabel"; text = "Rounds:"; ObjectID = "e0K-Cf-ErC"; */
+"e0K-Cf-ErC.text" = "Rondas:";
+
+/* Class = "UILabel"; text = "Seconds:"; ObjectID = "eAg-7K-fG1"; */
+"eAg-7K-fG1.text" = "Segundos:";
+
+/* Class = "UIButton"; normalTitle = "Surya Bhedana"; ObjectID = "gln-u2-YPW"; */
+"gln-u2-YPW.normalTitle" = "Surya Bhedana";
+
+/* Class = "UIViewController"; title = "Master"; ObjectID = "jo1-ee-QuZ"; */
+"jo1-ee-QuZ.title" = "Master";
+
+/* Class = "UILabel"; text = "ChandraBhedana"; ObjectID = "l9L-uE-GhJ"; */
+"l9L-uE-GhJ.text" = "ChandraBhedana";
+
+/* Class = "UIButton"; normalTitle = "Kapalbhati"; ObjectID = "nNU-cP-C6I"; */
+"nNU-cP-C6I.normalTitle" = "Kapalbhati";
+
+/* Class = "UILabel"; text = "Volume"; ObjectID = "r22-DO-1NV"; */
+"r22-DO-1NV.text" = "Volumen";
+
+/* Class = "UILabel"; text = "125"; ObjectID = "uYn-Wc-5qL"; */
+"uYn-Wc-5qL.text" = "125";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "v3d-fg-tZH"; */
+"v3d-fg-tZH.title" = "Settings";
+
+/* Class = "UITableViewSection"; headerTitle = "Chandra Bhedana"; ObjectID = "vNa-mR-qaZ"; */
+"vNa-mR-qaZ.headerTitle" = "Chandra Bhedana";
+
+/* Class = "UITableViewSection"; headerTitle = "Export"; ObjectID = "yJt-74-95S"; */
+"yJt-74-95S.headerTitle" = "Exporta";
